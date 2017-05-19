@@ -1696,7 +1696,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #70a62e;
+  background: #6b16ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2869,6 +2869,12 @@ pre .javascript .function {
   .post-body {
     text-align: justify;
   }
+}
+.btn {
+  border-width: 1px;
+}
+.posts-expand .post-body img {
+  border-width: 0px;
 }
 .post-comments-count a::before {
   content: "评论数";
