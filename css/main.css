@@ -1313,7 +1313,7 @@ pre .javascript .function {
   font-size: 26px;
   text-align: center;
   word-break: break-word;
-  font-weight: 400;
+  font-weight: 200;
 }
 @media (max-width: 767px) {
   .posts-expand .post-title {
@@ -1437,7 +1437,7 @@ pre .javascript .function {
   color: #555;
   font-size: 14px;
   background: #fff;
-  border-radius: 2px;
+  border-radius: 1px;
   line-height: 2;
   margin: 0 4px 8px 4px;
 }
@@ -1696,7 +1696,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4bf421;
+  background: #70a62e;
 }
 .links-of-blogroll {
   font-size: 13px;
