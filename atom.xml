@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dengxiaoting.com/"/>
-  <updated>2017-05-20T01:48:12.000Z</updated>
+  <updated>2017-05-20T02:03:31.000Z</updated>
   <id>http://dengxiaoting.com/</id>
   
   <author>
@@ -16,22 +16,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>github-nodejs-hexo-next</title>
+    <title>GitHub + Hexo 打造个人博客</title>
     <link href="http://dengxiaoting.com/2017/github-nodejs-hexo-next/"/>
     <id>http://dengxiaoting.com/2017/github-nodejs-hexo-next/</id>
     <published>2017-05-20T01:46:22.000Z</published>
-    <updated>2017-05-20T01:48:12.000Z</updated>
+    <updated>2017-05-20T02:03:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>前一篇博客之路随便写了点，今天就写写自己博客的怎么搭建的过程，作为一个历程，有必要记录一下。</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;前一篇博客之路随便写了点，今天就写写自己博客的怎么搭建的过程，作为一个历程，有必要记录一下。&lt;/p&gt;
+
     
     </summary>
     
     
       <category term="GitHub" scheme="http://dengxiaoting.com/tags/GitHub/"/>
     
-      <category term="hexo" scheme="http://dengxiaoting.com/tags/hexo/"/>
-    
       <category term="Mac" scheme="http://dengxiaoting.com/tags/Mac/"/>
+    
+      <category term="Hexo" scheme="http://dengxiaoting.com/tags/Hexo/"/>
     
   </entry>
   
