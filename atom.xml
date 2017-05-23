@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dengxiaoting.com/"/>
-  <updated>2017-05-22T22:43:01.000Z</updated>
+  <updated>2017-05-23T11:20:10.000Z</updated>
   <id>http://dengxiaoting.com/</id>
   
   <author>
@@ -16,27 +16,49 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>GitHub + Hexo 打造个人博客</title>
-    <link href="http://dengxiaoting.com/2017/github-nodejs-hexo-next/"/>
-    <id>http://dengxiaoting.com/2017/github-nodejs-hexo-next/</id>
-    <published>2017-05-20T01:46:22.000Z</published>
-    <updated>2017-05-22T22:43:01.000Z</updated>
+    <title>好事多磨</title>
+    <link href="http://dengxiaoting.com/article/wei/"/>
+    <id>http://dengxiaoting.com/article/wei/</id>
+    <published>2017-05-23T05:04:05.000Z</published>
+    <updated>2017-05-23T11:20:10.000Z</updated>
     
-    <content type="html"><![CDATA[<p>前一篇博客之路随便写了点，今天就写写博客搭建的过程，作为一个经历，有必要记录一下。<br>本人是Mac环境，Windows、Linux环境没有尝试，但是思路也差不多。不多说，进入正题吧。<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<p>我真的认识自己吗？</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我真的认识自己吗？&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://dengxiaoting.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub + Hexo 打造个人博客</title>
+    <link href="http://dengxiaoting.com/article/github-nodejs-hexo-next/"/>
+    <id>http://dengxiaoting.com/article/github-nodejs-hexo-next/</id>
+    <published>2017-05-20T01:46:22.000Z</published>
+    <updated>2017-05-23T18:33:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>前一篇博客之路随便写了点，今天就写写博客搭建的过程，作为一个经历，有必要记录一下。<br><a id="more"></a></p>
 <h4 id="本地环境"><a href="#本地环境" class="headerlink" title="本地环境"></a>本地环境</h4>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;前一篇博客之路随便写了点，今天就写写博客搭建的过程，作为一个经历，有必要记录一下。&lt;br&gt;本人是Mac环境，Windows、Linux环境没有尝试，但是思路也差不多。不多说，进入正题吧。&lt;br&gt;
+      &lt;p&gt;前一篇博客之路随便写了点，今天就写写博客搭建的过程，作为一个经历，有必要记录一下。&lt;br&gt;
     
     </summary>
     
       <category term="笔记" scheme="http://dengxiaoting.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="GitHub" scheme="http://dengxiaoting.com/tags/GitHub/"/>
-    
       <category term="Hexo" scheme="http://dengxiaoting.com/tags/Hexo/"/>
+    
+      <category term="GitHub" scheme="http://dengxiaoting.com/tags/GitHub/"/>
     
       <category term="Mac" scheme="http://dengxiaoting.com/tags/Mac/"/>
     
@@ -44,23 +66,21 @@
   
   <entry>
     <title>博客之路</title>
-    <link href="http://dengxiaoting.com/2017/hexo-blog/"/>
-    <id>http://dengxiaoting.com/2017/hexo-blog/</id>
+    <link href="http://dengxiaoting.com/article/hexo-blog/"/>
+    <id>http://dengxiaoting.com/article/hexo-blog/</id>
     <published>2017-05-10T03:44:01.000Z</published>
-    <updated>2017-05-22T23:46:13.000Z</updated>
+    <updated>2017-05-23T18:33:54.000Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="姗姗来迟的博客"><a href="#姗姗来迟的博客" class="headerlink" title="姗姗来迟的博客"></a>姗姗来迟的博客</h4><p>一直有搭建自己博客的想法，花了不少时间买域名、服务器来折腾。遇到一些不大不小的阻力，主要还是备案的原因，而国外的VPS也因为信用卡的缘由，没去折腾了。其实最根本的原因是有了博客不知道该写什么东西，自己文笔也不咋样，最终不了了之。</p>
+    <content type="html"><![CDATA[<h4 id="姗姗来迟的博客"><a href="#姗姗来迟的博客" class="headerlink" title="姗姗来迟的博客"></a>姗姗来迟的博客</h4><p>博客不知道该写什么东西。</p>
 <a id="more"></a>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28285910&auto=0&height=66"></iframe>
 
-<p>翻来覆去，终于还是弄了，回过头来看看，其间<code>Google</code>、<code>Baidu</code>各种教程，关于<code>Hexo</code>、<code>Github Pages</code>、<code>Markdown</code>、<code>DNSPod</code>，绑定域名、选择主题，林林总总就不多说了，网上的教程十分丰富，<a style="color: #87CEFA" href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">参考教程</a>。</p>
-<p>这篇博文叫博客之路，没有教人如何搭建博客，第一篇文章，做一下记录。<br>blog在GitHub上，访问速度可能不理想，以后再优化吧。<br>ok,第一篇文章就说这么多了。Hello World。</p>
 <p><code>--end--</code></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;姗姗来迟的博客&quot;&gt;&lt;a href=&quot;#姗姗来迟的博客&quot; class=&quot;headerlink&quot; title=&quot;姗姗来迟的博客&quot;&gt;&lt;/a&gt;姗姗来迟的博客&lt;/h4&gt;&lt;p&gt;一直有搭建自己博客的想法，花了不少时间买域名、服务器来折腾。遇到一些不大不小的阻力，主要还是备案的原因，而国外的VPS也因为信用卡的缘由，没去折腾了。其实最根本的原因是有了博客不知道该写什么东西，自己文笔也不咋样，最终不了了之。&lt;/p&gt;
+      &lt;h4 id=&quot;姗姗来迟的博客&quot;&gt;&lt;a href=&quot;#姗姗来迟的博客&quot; class=&quot;headerlink&quot; title=&quot;姗姗来迟的博客&quot;&gt;&lt;/a&gt;姗姗来迟的博客&lt;/h4&gt;&lt;p&gt;博客不知道该写什么东西。&lt;/p&gt;
     
     </summary>
     
@@ -68,8 +88,6 @@
     
     
       <category term="Hexo" scheme="http://dengxiaoting.com/tags/Hexo/"/>
-    
-      <category term="Next" scheme="http://dengxiaoting.com/tags/Next/"/>
     
   </entry>
   
