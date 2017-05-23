@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dengxiaoting.com/"/>
-  <updated>2017-05-20T22:28:43.000Z</updated>
+  <updated>2017-05-22T22:43:01.000Z</updated>
   <id>http://dengxiaoting.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://dengxiaoting.com/2017/github-nodejs-hexo-next/"/>
     <id>http://dengxiaoting.com/2017/github-nodejs-hexo-next/</id>
     <published>2017-05-20T01:46:22.000Z</published>
-    <updated>2017-05-20T22:28:43.000Z</updated>
+    <updated>2017-05-22T22:43:01.000Z</updated>
     
     <content type="html"><![CDATA[<p>前一篇博客之路随便写了点，今天就写写博客搭建的过程，作为一个经历，有必要记录一下。<br>本人是Mac环境，Windows、Linux环境没有尝试，但是思路也差不多。不多说，进入正题吧。<br><a id="more"></a></p>
 <h4 id="本地环境"><a href="#本地环境" class="headerlink" title="本地环境"></a>本地环境</h4>]]></content>
@@ -47,13 +47,13 @@
     <link href="http://dengxiaoting.com/2017/hexo-blog/"/>
     <id>http://dengxiaoting.com/2017/hexo-blog/</id>
     <published>2017-05-10T03:44:01.000Z</published>
-    <updated>2017-05-20T22:29:01.000Z</updated>
+    <updated>2017-05-22T23:46:13.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="姗姗来迟的博客"><a href="#姗姗来迟的博客" class="headerlink" title="姗姗来迟的博客"></a>姗姗来迟的博客</h4><p>一直有搭建自己博客的想法，花了不少时间买域名、服务器来折腾。遇到一些不大不小的阻力，主要还是备案的原因，而国外的VPS也因为信用卡的缘由，没去折腾了。其实最根本的原因是有了博客不知道该写什么东西，自己文笔也不咋样，最终不了了之。</p>
 <a id="more"></a>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28285910&auto=0&height=66"></iframe>
 
-<p><img src="http://o7yzbeo2l.bkt.clouddn.com/second.jpg" alt="博客之路"><br>翻来覆去，终于还是弄了，回过头来看看，其间<code>Google</code>、<code>Baidu</code>各种教程，关于<code>Hexo</code>、<code>Github Pages</code>、<code>Markdown</code>、<code>DNSPod</code>，绑定域名、选择主题，林林总总就不多说了，网上的教程十分丰富，<a style="color: #87CEFA" href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">参考教程</a>。</p>
+<p>翻来覆去，终于还是弄了，回过头来看看，其间<code>Google</code>、<code>Baidu</code>各种教程，关于<code>Hexo</code>、<code>Github Pages</code>、<code>Markdown</code>、<code>DNSPod</code>，绑定域名、选择主题，林林总总就不多说了，网上的教程十分丰富，<a style="color: #87CEFA" href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">参考教程</a>。</p>
 <p>这篇博文叫博客之路，没有教人如何搭建博客，第一篇文章，做一下记录。<br>blog在GitHub上，访问速度可能不理想，以后再优化吧。<br>ok,第一篇文章就说这么多了。Hello World。</p>
 <p><code>--end--</code></p>
 ]]></content>
