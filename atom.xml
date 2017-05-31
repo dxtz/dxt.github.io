@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dengxiaoting.com/"/>
-  <updated>2017-05-23T11:20:10.000Z</updated>
+  <updated>2017-05-25T03:01:28.000Z</updated>
   <id>http://dengxiaoting.com/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post-1</title>
+    <link href="http://dengxiaoting.com/article/post-1/"/>
+    <id>http://dengxiaoting.com/article/post-1/</id>
+    <published>2017-05-25T02:52:49.000Z</published>
+    <updated>2017-05-25T03:01:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="string">'hello world'</span>)</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一直在路上</title>
+    <link href="http://dengxiaoting.com/article/dxtz-php-framework/"/>
+    <id>http://dengxiaoting.com/article/dxtz-php-framework/</id>
+    <published>2017-05-23T19:48:19.000Z</published>
+    <updated>2017-05-25T02:51:32.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="php" scheme="http://dengxiaoting.com/tags/php/"/>
+    
+  </entry>
   
   <entry>
     <title>好事多磨</title>
@@ -42,7 +77,7 @@
     <link href="http://dengxiaoting.com/article/github-nodejs-hexo-next/"/>
     <id>http://dengxiaoting.com/article/github-nodejs-hexo-next/</id>
     <published>2017-05-20T01:46:22.000Z</published>
-    <updated>2017-05-23T18:33:17.000Z</updated>
+    <updated>2017-05-25T02:49:53.000Z</updated>
     
     <content type="html"><![CDATA[<p>前一篇博客之路随便写了点，今天就写写博客搭建的过程，作为一个经历，有必要记录一下。<br><a id="more"></a></p>
 <h4 id="本地环境"><a href="#本地环境" class="headerlink" title="本地环境"></a>本地环境</h4>]]></content>
@@ -56,9 +91,9 @@
       <category term="笔记" scheme="http://dengxiaoting.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Hexo" scheme="http://dengxiaoting.com/tags/Hexo/"/>
-    
       <category term="GitHub" scheme="http://dengxiaoting.com/tags/GitHub/"/>
+    
+      <category term="Hexo" scheme="http://dengxiaoting.com/tags/Hexo/"/>
     
       <category term="Mac" scheme="http://dengxiaoting.com/tags/Mac/"/>
     
