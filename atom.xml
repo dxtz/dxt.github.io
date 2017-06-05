@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dengxiaoting.com/"/>
-  <updated>2017-05-31T23:07:26.000Z</updated>
+  <updated>2017-06-05T04:49:50.000Z</updated>
   <id>http://dengxiaoting.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://dengxiaoting.com/article/hello-summer/"/>
     <id>http://dengxiaoting.com/article/hello-summer/</id>
     <published>2017-05-31T23:02:26.000Z</published>
-    <updated>2017-05-31T23:07:26.000Z</updated>
+    <updated>2017-06-05T04:49:50.000Z</updated>
     
     <summary type="html">
     
@@ -34,7 +34,7 @@
     <link href="http://dengxiaoting.com/article/post-1/"/>
     <id>http://dengxiaoting.com/article/post-1/</id>
     <published>2017-05-25T02:52:49.000Z</published>
-    <updated>2017-06-05T04:41:28.000Z</updated>
+    <updated>2017-06-05T04:49:17.000Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">console</span>.log(<span class="string">'hello world'</span>)</div></pre></td></tr></table></figure>
 ]]></content>
@@ -55,7 +55,7 @@
     <link href="http://dengxiaoting.com/article/dxtz-php-framework/"/>
     <id>http://dengxiaoting.com/article/dxtz-php-framework/</id>
     <published>2017-05-23T19:48:19.000Z</published>
-    <updated>2017-05-25T02:51:32.000Z</updated>
+    <updated>2017-06-05T04:49:30.000Z</updated>
     
     <summary type="html">
     
@@ -71,7 +71,7 @@
     <link href="http://dengxiaoting.com/article/wei/"/>
     <id>http://dengxiaoting.com/article/wei/</id>
     <published>2017-05-23T05:04:05.000Z</published>
-    <updated>2017-05-23T11:20:10.000Z</updated>
+    <updated>2017-06-05T04:49:41.000Z</updated>
     
     <content type="html"><![CDATA[<p>我真的认识自己吗？</p>
 ]]></content>
@@ -93,7 +93,7 @@
     <link href="http://dengxiaoting.com/article/github-nodejs-hexo-next/"/>
     <id>http://dengxiaoting.com/article/github-nodejs-hexo-next/</id>
     <published>2017-05-20T01:46:22.000Z</published>
-    <updated>2017-06-05T03:23:23.000Z</updated>
+    <updated>2017-06-05T04:49:23.000Z</updated>
     
     <summary type="html">
     
@@ -111,7 +111,7 @@
     <link href="http://dengxiaoting.com/article/hexo-blog/"/>
     <id>http://dengxiaoting.com/article/hexo-blog/</id>
     <published>2017-05-10T03:44:01.000Z</published>
-    <updated>2017-06-05T04:34:51.000Z</updated>
+    <updated>2017-06-05T04:49:09.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p><em>最佳实践（best practice）</em>，是一个管理学的概念，认为存在某种技术、方法、过程、活动或机制可以使生产或管理实践的结果达到最优，并减少出错的可能性。<br>最佳实践还常常被咨询公司、研究机构、政府机构和行业协会定义为：为持续有效的达到企业目标而采取的最成功的解决方案或解决问题的方法。<br>最佳实践常被用来作为一种强制行政标准以保证质量，其基础可以是自我评估和标杆管理。最佳实践是ISO 9000和ISO 14001认证的管理标准。<br>——摘自 <a href="https://zh.wikipedia.org/wiki/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5" target="_blank" rel="external">维基百科</a></p>
