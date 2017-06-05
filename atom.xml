@@ -111,11 +111,11 @@
   </entry>
   
   <entry>
-    <title>GitHub + Hexo 打造个人博客</title>
-    <link href="http://dengxiaoting.com/article/github-nodejs-hexo-next/"/>
-    <id>http://dengxiaoting.com/article/github-nodejs-hexo-next/</id>
+    <title>HTTP协议学习笔记</title>
+    <link href="http://dengxiaoting.com/article/web-http-socket/"/>
+    <id>http://dengxiaoting.com/article/web-http-socket/</id>
     <published>2017-05-18T01:46:22.000Z</published>
-    <updated>2017-06-05T06:10:26.000Z</updated>
+    <updated>2017-06-05T12:18:48.000Z</updated>
     
     <summary type="html">
     
@@ -124,14 +124,16 @@
       <category term="随笔" scheme="http://dengxiaoting.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="GitHub" scheme="http://dengxiaoting.com/tags/GitHub/"/>
+      <category term="Web" scheme="http://dengxiaoting.com/tags/Web/"/>
+    
+      <category term="HTTP" scheme="http://dengxiaoting.com/tags/HTTP/"/>
     
   </entry>
   
   <entry>
     <title>PHP的最佳实践</title>
-    <link href="http://dengxiaoting.com/article/hexo-blog/"/>
-    <id>http://dengxiaoting.com/article/hexo-blog/</id>
+    <link href="http://dengxiaoting.com/article/php-psr/"/>
+    <id>http://dengxiaoting.com/article/php-psr/</id>
     <published>2017-05-16T03:44:01.000Z</published>
     <updated>2017-06-05T06:09:04.000Z</updated>
     
