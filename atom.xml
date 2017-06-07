@@ -93,7 +93,7 @@
     <link href="http://dengxiaoting.com/article/composer-packagist/"/>
     <id>http://dengxiaoting.com/article/composer-packagist/</id>
     <published>2017-05-20T05:04:05.000Z</published>
-    <updated>2017-06-06T19:35:58.000Z</updated>
+    <updated>2017-06-07T18:38:37.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>Composer是PHP用来管理依赖(dependency) 关系的工具。你可以在自己的项目中声明所依赖的外部工具库(libraries)，Composer会帮你安装这些依赖的库文件。</p>
@@ -102,7 +102,7 @@
 <h4 id="安装Composer"><a href="#安装Composer" class="headerlink" title="安装Composer"></a>安装Composer</h4><p>简单介绍一下Mac下面的安装，在终端执行如下命令：<br><figure class="highlight zsh"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">brew</span> install composer</div></pre></td></tr></table></figure></p>
 <p>安装完成后执行：<br><figure class="highlight zsh"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">composer</div></pre></td></tr></table></figure></p>
 <p>出现如下所示信息，即安装成功。<br><img src="http://o7yzbeo2l.bkt.clouddn.com/composer2.jpg" alt="composer"><br>如果安装不成功，可以参见<strong><a href="https://pkg.phpcomposer.com/#how-to-install-composer" target="_blank" rel="external">这里</a></strong>，Windows也可照此方法安装。</p>
-<h4 id="如何启用镜像服务"><a href="#如何启用镜像服务" class="headerlink" title="如何启用镜像服务"></a>如何启用镜像服务</h4><p>Composer安装成功后就可以composer命令来安装你需要的依赖包了。但是为什么还要启用镜像服务，主要原因在于依赖包数据一般存放在国外的网站（github.com,packagist.org）,连接速度太慢或者被墙，国内使用体验不好，当然如果科学上网，这些并不是问题。</p>
+<h4 id="如何启用镜像服务"><a href="#如何启用镜像服务" class="headerlink" title="如何启用镜像服务"></a>如何启用镜像服务</h4><p>Composer安装成功后就可以composer命令来安装你需要的依赖包了。但是为什么还要启用镜像服务，主要原因在于依赖包数据一般存放在国外的网站（github.com,packagist.org）,连接速度太慢或者被墙，国内使用体验不好，也许安装一个小小的依赖包，却久久下载不来。当然如果科学上网，这些并不是问题。</p>
 <p><em>这里推荐 <a href="https://pkg.phpcomposer.com/" target="_blank" rel="external">Packagist/Composer中国全量镜像</a>，你可以直接访问推荐的这个<a href="https://pkg.phpcomposer.com/" target="_blank" rel="external">地址</a>，这里有介绍如何启用镜像。</em></p>
 <p>在这里复述一下<a href="https://pkg.phpcomposer.com/" target="_blank" rel="external">Packagist/Composer中国全量镜像</a>启用镜像的命令，有两种方式。</p>
 <ul>
@@ -114,7 +114,7 @@
 <p>  执行上述命令后，会在当前项目中的composer.json文件末尾自动添加镜像配置信息：</p>
   <figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">"repositories": &#123;</div><div class="line">    "packagist": &#123;</div><div class="line">        "type": "composer",</div><div class="line">        "url": "https://packagist.phpcomposer.com"</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <p>  也可以不用执行方法二命令，直接修改项目下的composer.json文件，把上面这段json信息添加到composer.json中。</p>
-<p>  <code>--EOF--</code></p>
+<p>  镜像启用完成，可以快乐的使用composer了。<br>  <code>--EOF--</code></p>
 </li>
 </ul>
 ]]></content>
@@ -132,26 +132,6 @@
     
     
       <category term="composer" scheme="http://dengxiaoting.com/tags/composer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HTTP协议学习笔记</title>
-    <link href="http://dengxiaoting.com/article/web-http-socket/"/>
-    <id>http://dengxiaoting.com/article/web-http-socket/</id>
-    <published>2017-05-18T01:46:22.000Z</published>
-    <updated>2017-06-05T12:18:48.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://dengxiaoting.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="Web" scheme="http://dengxiaoting.com/tags/Web/"/>
-    
-      <category term="HTTP" scheme="http://dengxiaoting.com/tags/HTTP/"/>
     
   </entry>
   
@@ -185,6 +165,24 @@
     
     
       <category term="php最佳实践" scheme="http://dengxiaoting.com/tags/php%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习笔记</title>
+    <link href="http://dengxiaoting.com/article/web-http-socket/"/>
+    <id>http://dengxiaoting.com/article/web-http-socket/</id>
+    <published>2017-05-16T01:46:22.000Z</published>
+    <updated>2017-06-07T12:25:38.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://dengxiaoting.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="记录" scheme="http://dengxiaoting.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
