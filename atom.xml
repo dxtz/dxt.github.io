@@ -93,7 +93,7 @@
     <link href="http://dengxiaoting.com/article/composer-packagist/"/>
     <id>http://dengxiaoting.com/article/composer-packagist/</id>
     <published>2017-05-20T05:04:05.000Z</published>
-    <updated>2017-06-06T19:34:14.000Z</updated>
+    <updated>2017-06-06T19:35:58.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>Composer是PHP用来管理依赖(dependency) 关系的工具。你可以在自己的项目中声明所依赖的外部工具库(libraries)，Composer会帮你安装这些依赖的库文件。</p>
