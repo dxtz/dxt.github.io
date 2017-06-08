@@ -1431,7 +1431,8 @@ pre .javascript .function {
   align-self: center;
 }
 .post-button {
-  margin-top: 50px;
+  margin-top: 5px;
+  margin-bottom: 20px;
 }
 .post-button .btn {
   color: #555;
@@ -1702,7 +1703,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4f9e91;
+  background: #f5ffb5;
 }
 .links-of-blogroll {
   font-size: 13px;
