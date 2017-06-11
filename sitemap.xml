@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://dengxiaoting.com/article/cache-redis.html</loc>
+    
+    <lastmod>2017-06-11T09:25:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://dengxiaoting.com/article/php-psr.html</loc>
     
     <lastmod>2017-06-08T10:43:56.000Z</lastmod>

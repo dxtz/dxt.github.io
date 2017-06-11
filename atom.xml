@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dengxiaoting.com/"/>
-  <updated>2017-06-05T05:56:33.000Z</updated>
+  <updated>2017-06-11T09:25:23.000Z</updated>
   <id>http://dengxiaoting.com/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cache-redis</title>
+    <link href="http://dengxiaoting.com/article/cache-redis.html"/>
+    <id>http://dengxiaoting.com/article/cache-redis.html</id>
+    <published>2017-06-11T09:25:23.000Z</published>
+    <updated>2017-06-11T09:25:23.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>nginx-http</title>
