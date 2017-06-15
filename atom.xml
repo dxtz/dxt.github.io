@@ -151,35 +151,26 @@
   </entry>
   
   <entry>
-    <title>PHP的最佳实践</title>
-    <link href="http://dengxiaoting.com/article/php-psr.html"/>
-    <id>http://dengxiaoting.com/article/php-psr.html</id>
+    <title>webpack实践</title>
+    <link href="http://dengxiaoting.com/article/webpack-npm-node.html"/>
+    <id>http://dengxiaoting.com/article/webpack-npm-node.html</id>
     <published>2017-05-16T03:44:01.000Z</published>
-    <updated>2017-06-08T10:43:56.000Z</updated>
+    <updated>2017-06-15T01:34:45.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote>
-<p><em>最佳实践（best practice）</em>，是一个管理学的概念，认为存在某种技术、方法、过程、活动或机制可以使生产或管理实践的结果达到最优，并减少出错的可能性。<br>最佳实践还常常被咨询公司、研究机构、政府机构和行业协会定义为：为持续有效的达到企业目标而采取的最成功的解决方案或解决问题的方法。<br>最佳实践常被用来作为一种强制行政标准以保证质量，其基础可以是自我评估和标杆管理。最佳实践是ISO 9000和ISO 14001认证的管理标准。<br>——摘自 <a href="https://zh.wikipedia.org/wiki/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5" target="_blank" rel="external">维基百科</a></p>
-</blockquote>
-<p>PHP生态系统是个名副其实的大熔炉，其中框架数量众多，不同框架的功能不尽相同，规范也自成体系，有各式各样的代码风格和实现方式，框架之间可能是完全无法沟通。<br><a id="more"></a><br>在实际工作中，当我们调查比较之后，选定一个框架开始开发自己的应用，在项目进行到一定阶段，出现了新的需求，但是此时的框架并没有解决此需求的功能。如果有别的框架实现了此功能，但是因为不同框架之间的限制，我们不能共享别人的代码。此时自己重新来实现此功能，使开发的效率非常低。</p>
-<p>所以要让框架之间互通、共享库，就需要框架之间通过<strong>接口</strong>、<strong>自动加载机制</strong>和<strong>标准的风格</strong>等其他规范，让框架之间相互合作。所以要了解 <a href="#PSR">PSR</a>，这样PHP框架无需频繁解决相同的问题，它们可以遵守最佳实践的标准，使用共同的解决方案。</p>
-<h4 id="什么是PSR"><a href="#什么是PSR" class="headerlink" title=" 什么是PSR "></a><strong> <span id="PSR">什么是PSR</span> </strong></h4><p>PSR是PHP Standards Recommendation（PHP推荐标准）的简称。它是PHP-FIG（PHP Framework Interop Group）制定的推荐规范。</p>
-<p><strong> <a href="http://www.php-fig.org/psr/" target="_blank" rel="external">了解PSR</a> <small><a href="https://psr.phphub.org/" target="_blank" rel="external">中文版</a></small> </strong></p>
-<p><code>--EOF--</code></p>
+    <content type="html"><![CDATA[<p><code>--EOF--</code></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;最佳实践（best practice）&lt;/em&gt;，是一个管理学的概念，认为存在某种技术、方法、过程、活动或机制可以使生产或管理实践的结果达到最优，并减少出错的可能性。&lt;br&gt;最佳实践还常常被咨询公司、研究机构、政府机构和行业协会定义为：为持续有效的达到企业目标而采取的最成功的解决方案或解决问题的方法。&lt;br&gt;最佳实践常被用来作为一种强制行政标准以保证质量，其基础可以是自我评估和标杆管理。最佳实践是ISO 9000和ISO 14001认证的管理标准。&lt;br&gt;——摘自 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;维基百科&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;PHP生态系统是个名副其实的大熔炉，其中框架数量众多，不同框架的功能不尽相同，规范也自成体系，有各式各样的代码风格和实现方式，框架之间可能是完全无法沟通。&lt;br&gt;
+      &lt;p&gt;&lt;code&gt;--EOF--&lt;/code&gt;&lt;/p&gt;
+
     
     </summary>
     
-      <category term="PHP" scheme="http://dengxiaoting.com/categories/PHP/"/>
+      <category term="前端" scheme="http://dengxiaoting.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="php最佳实践" scheme="http://dengxiaoting.com/tags/php%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/"/>
+      <category term="实践" scheme="http://dengxiaoting.com/tags/%E5%AE%9E%E8%B7%B5/"/>
     
   </entry>
   
