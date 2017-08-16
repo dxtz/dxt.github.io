@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://dengxiaoting.com/article/composer-packagist.html</loc>
+    
+    <lastmod>2017-08-16T18:51:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://dengxiaoting.com/article/webpack-npm-node.html</loc>
     
     <lastmod>2017-06-15T01:34:45.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://dengxiaoting.com/article/cache-redis.html</loc>
     
     <lastmod>2017-06-11T09:25:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://dengxiaoting.com/article/composer-packagist.html</loc>
-    
-    <lastmod>2017-06-08T10:42:15.000Z</lastmod>
     
   </url>
   
